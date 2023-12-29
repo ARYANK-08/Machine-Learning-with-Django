@@ -1,9 +1,10 @@
 Download ML model from here : https://drive.google.com/file/d/1kb1w4xShRynP30C38QQw8FFpkqGZtJSl/view?usp=sharing
 
-```markdown
 # Leaf Detector ML Model
 
 Leaf Detector ML Model is a Django web application that takes input images of leaves, processes them using a machine learning model, and provides the output of the detected plant.
+```markdown
+
 
 ## Prerequisites
 
