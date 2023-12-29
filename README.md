@@ -44,17 +44,9 @@ Visit [http://127.0.0.1:8000/](http://127.0.0.1:8000/) in your browser to access
 2. The application processes the image using the machine learning model.
 3. View the result page to see the detected plant and additional information.
 
-## Additional Notes
+## Website Images : 
 
-- Make sure to have a working internet connection for the machine learning model to function properly.
+![image](https://github.com/ARYANK-08/Machine-Learning-with-Django/assets/120780784/62a11871-3b7e-4047-92da-ed0a463221f3)
+![image](https://github.com/ARYANK-08/Machine-Learning-with-Django/assets/120780784/1d8d62a7-bb31-4373-a059-010ca0a537a7)
 
-- Customize the web interface and styles according to your preferences in the Django templates and CSS files.
 
-- For production deployment, consider updating Django settings (e.g., `DEBUG`, `ALLOWED_HOSTS`) and use a production-ready web server.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-```
-
-Make sure to replace the placeholder text and URLs with the actual details relevant to your project. Additionally, include a `LICENSE` file with the text of the MIT License in your repository.
